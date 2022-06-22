@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FonClive
-- 👀 I’m interested in ...Computer Networking, and Aws
-- 🌱 I’m currently learning ...Cisco Networking and AWs
-- 💞️ I’m looking to collaborate on ...Related projects on Cisco Networking and AWS cloud
+- 👀 I’m interested in ...Computer Networking,Cloud Computing and Software dev
+- 🌱 I’m currently learning ...Cloud Computing and software dev
+- 💞️ I’m looking to collaborate on ...Related projects on Cisco Networking and AWS cloud, software dev
 - 📫 How to reach me ...chesterclive@69.com
 
 <!---
